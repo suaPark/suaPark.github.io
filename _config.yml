@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello, this is Sua Park's jekyll Test web pages.
   If you have any question, please let me know that.
   Connect my e-mail.
-baseurl: "/jekyll_test" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
